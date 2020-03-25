@@ -6,6 +6,11 @@ Luckily, the device information is part of the data available via the Twitter AP
 
 In this task using a number of supervised machine learning classifiers in order to validate the hypothesis about Trump tweeting habits.
 
+Attached document containing the task process:
+- Data Preprocessing and Exploration
+- Features Extraction
+- Methods
+- Experiments
 
 Algorithms:
 - [Logistic Regression](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html#sklearn.linear_model.LogisticRegression) 
