@@ -972,7 +972,7 @@ def main():
     preds = rf_best.predict(np.concatenate([X_test_svd,X_test_emb],axis=-1))
     
     #save file of prediction
-    #write_to_txt(preds,'300830692')
+    #write_to_txt(preds,'preds')
 
 
 #run the relevent function
