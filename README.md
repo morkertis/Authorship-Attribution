@@ -1,5 +1,6 @@
 # Authorship-Attribution
-## Various algorithms for text classification, performing an authorship attribution task on Donald Trump’s tweets 
+## Various algorithms for text classification 
+### Performing an authorship attribution task on Donald Trump’s tweets 
 
 Trump’s tweets are not explicitly labeled It is known, however, that Trump was using an android phone while the staffers were most likely to use an iPhone. 
 Luckily, the device information is part of the data available via the Twitter API, hence the device used can be used as an authorship label. 
