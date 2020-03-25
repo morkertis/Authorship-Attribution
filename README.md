@@ -6,6 +6,9 @@ Luckily, the device information is part of the data available via the Twitter AP
 
 In this task you will be using a number of supervised machine learning classifiers in order to validate the hypothesis about Trump tweeting habits.
 
+
 Algorithms:
 - [Logistic Regression](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html#sklearn.linear_model.LogisticRegression) 
 - Support Vector Machine algorithms - [Linear and nonlinear kernels](http://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html#sklearn.svm.SVC)
+- [Random Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
+- [Feed Forward Neural Network in Pytorch](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html)
