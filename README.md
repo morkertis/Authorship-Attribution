@@ -4,7 +4,7 @@
 Trump’s tweets are not explicitly labeled It is known, however, that Trump was using an android phone while the staffers were most likely to use an iPhone. 
 Luckily, the device information is part of the data available via the Twitter API, hence the device used can be used as an authorship label. 
 
-In this task you will be using a number of supervised machine learning classifiers in order to validate the hypothesis about Trump tweeting habits.
+In this task using a number of supervised machine learning classifiers in order to validate the hypothesis about Trump tweeting habits.
 
 
 Algorithms:
